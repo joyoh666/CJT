@@ -1,0 +1,14 @@
+[project]
+name = "cjt-usrp"
+version = "0.1.0"
+description = "Closed-loop coherent joint transmission on distributed USRPs"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipython>=9.17.1",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "pandas>=3.0.5",
+    "scipy>=1.18.1",
+    "torch>=2.14.0",
+]
